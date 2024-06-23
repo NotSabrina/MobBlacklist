@@ -1,0 +1,23 @@
+# TRUE = Blacklisted
+# FALSE = Not Blacklisted
+ZOMBIE:
+  world: false
+  world_nether: false
+  world_the_end: false
+
+CREEPER:
+  world: false
+  world_nether: false
+  world_the_end: false
+
+CHICKEN:
+  world: false
+  world_nether: false
+  world_the_end: false
+
+SPIDER:
+  world: false
+  world_nether: false
+  world_the_end: false
+# Add more mobs and world you want
+# minecraft mob list : https://www.digminecraft.com/lists/entity_list_pc.php

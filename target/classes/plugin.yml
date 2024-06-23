@@ -1,0 +1,5 @@
+name: MobBlacklist
+version: 1.0
+main: me.supramental.mobblacklist.MobBlacklist
+description: blacklist a mob with this plugin
+api-version: 1.20
